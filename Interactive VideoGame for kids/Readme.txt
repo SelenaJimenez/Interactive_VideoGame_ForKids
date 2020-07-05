@@ -1,0 +1,2 @@
+Video game which focus in teach kids basic phrases in English, special characteristic is the interactive reaction. 
+Using Arduino the "controlls" of the videogame can be objects that kids are related to, such as fruits.
